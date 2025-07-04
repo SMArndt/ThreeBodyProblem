@@ -15,10 +15,9 @@ This project simulates and visualises the motion of three gravitationally intera
 ## 🧠 Features
 
 - Newtonian gravity-based simulation of 3 bodies
-- 3D animation with rotating view
-- Colour-coded trajectories with fading projections onto walls
-- Dark theme and pastel colouring for visual clarity
-- Automatically removes rigid-body drift (centre-of-mass motion)
+- Time integration using the Euler method
+- The simulation is visualised in an animated 3D plot with rotating view
+- Colour-coded trajectories with wall projections
 
 ---
 
