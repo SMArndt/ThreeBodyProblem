@@ -5,7 +5,7 @@ This project simulates and visualises the motion of three gravitationally intera
 
 ## 🎥 Example Output
 
-![Three-Body Simulation Screenshot](screenshot.png)
+![Three-Body Simulation Screenshot](ThreeBodyProblem_Frame.png")
 ![Three-Body Simulation](ThreeBodyProblem.mp4)
 
 > The above video shows bodies orbiting in 3D, with colored trails and wall projections to help visualise their motion.
